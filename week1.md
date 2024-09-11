@@ -8,7 +8,7 @@ Check out the awards that Sleeper posts in the league chat and congrats to our c
 
 ![heman catch club](static/heman-cc.png)
 
-I took the socres from the matchups in week1 and team names put together some AI prompts with a "He-Man" theme. I posted the prompt and resulting picture below. enjoy!
+I took the scores from the matchups in week1 and team names, and tried to imagine them with a "He-Man" theme. Threw in some AI prompts and you have a medium level effort post from the commish. I posted the text prompts and resulting pictures below. Enjoy!
 
 ## RogerGoodell beats Loud & Stroud 160 to 149
 

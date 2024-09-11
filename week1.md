@@ -36,6 +36,8 @@ prompt:
 prompt:
 > Dirty Bird swoops down from the air and snatches away the princess from kermit the frog, with an afro, in a red football uniform named "Mahomes for the Holidays". Do it in the style of he-man. Kermit is distraught and there is a lot of action.
 
+Please check into [The Draw Play](https://www.thedrawplay.com/tag/patrick-mahomes/) NFL webcomic for my inspiration of Mahomes.
+
 ![week1-game4](static/week1-game4.png)
 
 ## Chubby Time beats Livin on Burrow'd Time 161 to 124

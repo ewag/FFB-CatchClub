@@ -2,7 +2,9 @@
 
 ![tim burton](static/week2-catchclub.png)
 
-Week 2 is here, but where is the offense? Maybe we can say Mahomes three times in a row? The themes for the matchups are all based on Tim Burton movies.
+Week 2 is here, but where is the offense? Maybe we can say Mahomes three times in a row to get some teams scoring?
+
+ The themes for the matchups are all based on **Tim Burton** movies.
 
 ## Match Up of the Week: Tee Nick versus Living on Burrow'd Time
 

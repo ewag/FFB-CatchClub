@@ -8,7 +8,7 @@ Yada, yada, yada and bang, we're done with week 3. *So succinct!*
 
 ## Match Up of the Week: Happy Endings vs Dirty Birds
 
-![matchup](static/motw-week2.png)
+![matchup](static/week3-motwresult.png)
 
 Dirty Bird is truly master of his domain, and the domain of Catch Club. There was no release for Happy Endings losing 121 to 151
 
@@ -34,11 +34,17 @@ prompt:
 
 ## Max vs Mahomes for the Holidays
 
-You know, sometimes you go to the waiver wire, you're there first, and you pick up a wideout who scores 3 TDs, goes for 175 yards, scoring 51 points. Then someone swoops in, and grabs the win! You say, "But that's not the point, I was here first, I should get the win!"
+You know, sometimes you go to the waiver wire, you're there first, and you pick up a wideout who scores 3 TDs, goes for 175 yards, scoring 51 points. Then someone swoops in, and grabs the win! 
+
+Jauan Jennings went off.
+
+![great week](static/week3-jjennings51pts.png)
+
+You say, "But that's not the point, I was here first, I should get the win!"
 
 But if you got the win, you would have won
 
-**You know, we're living in a society! We're supposed to act in a civilized way!**
+**We're living in a society! We're supposed to act in a civilized way!**
 
 prompt:
 

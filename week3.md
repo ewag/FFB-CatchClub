@@ -1,6 +1,6 @@
 # Week 3
 
-Yada, yada, yada and bang, we're on week 3. *So succinct!*
+Yada, yada, yada and bang, we're done with week 3. *So succinct!*
 
 ![yada yada yada](static/seinfeld-cc.png)
 

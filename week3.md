@@ -10,7 +10,7 @@ Yada, yada, yada and bang, we're on week 3. *So succinct!*
 
 ![matchup](static/motw-week2.png)
 
-Dirty Bird is truly master of his domain, and Catch Club. There was no release for Happy Endings losing 121 to 151
+Dirty Bird is truly master of his domain, and the domain of Catch Club. There was no release for Happy Endings losing 121 to 151
 
 prompt:
 

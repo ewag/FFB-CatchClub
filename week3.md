@@ -1,21 +1,8 @@
-Catchphrases
-
-"No soup for you!" - From the "Soup Nazi" episode, where a demanding soup vendor refuses to serve customers who don't follow his strict ordering rules.
-"Yada, yada, yada" - A phrase used to gloss over details or avoid revealing sensitive information.
-"Serenity now!" - A mantra used by Frank Costanza to control his anger, often with hilarious results.
-"Giddy up!" - Kramer's enthusiastic exclamation.
-"Man hands" - A reference to a woman with large hands, as seen in the episode with Jerry's girlfriend, Elaine's nemesis.
-"The Summer of George" - George's plan to do nothing but relax and enjoy himself after being fired from his job.
-"Master of my domain" - A phrase used by the characters to celebrate their ability to abstain from sexual activity.
-"Double-dipping" - The act of dipping a chip into a dip twice, considered a social taboo by Timmy.
-"Shrinkage" - The phenomenon of a man's genitals shrinking in cold water, as experienced by George at the beach.
-"These pretzels are making me thirsty" - Kramer's famous line from a Woody Allen movie audition.
-
 # Week 3
 
 ![yada yada yada](static/seinfeld-cc.png)
 
-Yada, yada, yada and bang, we're on week 3. So succinct!
+Yada, yada, yada and bang, we're on week 3. *So succinct!*
 
 
 
@@ -81,27 +68,29 @@ An Armenian man, who is clean cut, wearing kitchen whites, has dark features and
 
 ![i got a roll!](static/week3-game4b.png)
 
-## Dirty Birds vs Team BeeWags
+## Living on Burrow'd Time vs Loud N Stroud
 
-In another close matcher, the OG Dirty Bird The Penguin topples BeeWag 172 to 159. BeeWag got the manager of the week for setting a perfect line-up, so I guess he has got that going for him. Dirty Bird remains undefeated.
+Loud N Stroud won with the 3rd least points this week and swimming in the pool with Living on Burrow'D time in the Hamptions. Sorry, I thought this was the baby's room. Im really sorry.
 
-prompt:
-```
-a danny devito inspired Penguin villian from Batman laughs as a centaur falls in an icy pit. Birds are flying around. Penguins are flapping. The centaur is kicking.
-```
-
-![devito](static/week2-game5.png)
-
-## All in the 5 Hole vs Chubby Time
-
-Chubby time remaines undefeated in a low-scoring affair, beating All in the That 5 Hole 114 to 92.
+HE WAS IN THE POOL! HE WAS IN THE POOL!
 
 prompt:
 ```
-Pee-Wee Herman and the entire fun house celebrates when the phrase of the day "chubby time" is announced. A personified chair is celebrating. A mailbox personified is celebrating. A mailman is celebrating. A large tv personified is celebrating. The 5th hole, a hole in the wall that is labeled "5th hole" is not celebrating. create an image.
+There is a frightened turtle, with glasses and a balding head for some reason. The turtle is wearing red swim trunks. Football players from around the NFL are pointing and laughing at the turtle.
 ```
 
-![peewee](static/week2-game6.png)
+![dont they know about shrinkage?](static/week3-game5.png)
+
+## Team BWag vs Mad Season
+
+Team BWwag MA-HANDled Mad Season 143 to 113
+
+prompt:
+```
+There are buns expertly baked in the letters that make up "Catch Club" spread on a platter in a well lit, nice looking restraurant venue. A beautiful women with a twinkling smile and sparkling eyes sits in front of dish. She is wearing a tasteful dress. Her hands  are very muscular ,  and reaching in and tearing into a piece of the buns. These hands are very hairy, and vieny. The the nails are painted bright pink. They are wearing expensive rings and bracelets.
+```
+
+![peewee](static/week3-game6.png)
 
 ## Cooper Pooper Trooper vs Happy Endings
 

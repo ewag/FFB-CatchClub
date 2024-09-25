@@ -97,13 +97,20 @@ prompt:
 
 ## Cooper Pooper Trooper vs Chubby Time
 
-Cooper Pooper Trooper said...
+Chubby Time says:
 
-    > these pretzels, they're making me... thristy.
+> these pretzels, they're making me... THIRSTY
 
-    > THESE PRETZELS! ...they're making me t h i r s t y
+> THESE PRETZELS! ...they're making me t h i r s t y
 
-    > These pretzels, THEY'RE MAKING ME THIRSTY!
+> These pretzels, (panting) THEY'RE MAKING ME THIRSTY!
+
+Cooper Pooper Trooper responds saying, "No, you see, its no good. You don't know how to act. Im working on it."
+
+> Boy, these pretzels, they're making ME thirsty
+
+![Bravo](static/week3-clapping.webp)
+
 
 prompt:
 
@@ -117,4 +124,10 @@ prompt:
 Team BWag (record 2 - 1) is favored over defending champ Max (record 3 - 0). Who will come out on top?
 
 ![week2](static/motw-week4.png)
+
+# See you next week!
+
+Later you old bags!
+
+![Its a Schnitzer's](static/week3-bye.webp)
 

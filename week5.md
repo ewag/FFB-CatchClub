@@ -107,3 +107,7 @@ prompt:
 4-1 Max versus 3-2 Chubby Time. Can Chubby Time make it 2 in a row against the defending Champ or can Max keep pace with an ascendant DDirtyBird?
 
 ![motw6](static/motw-week6.png)
+
+---
+
+Wish i could take the [time masheen](https://www.youtube.com/watch?v=DueSvcjn810) and go back to week 1, and change my draft strategy. Until next week!

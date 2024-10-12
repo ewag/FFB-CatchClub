@@ -110,4 +110,8 @@ prompt:
 
 ---
 
-Wish i could take the [time masheen](https://www.youtube.com/watch?v=DueSvcjn810) and go back to week 1, and change my draft strategy. Until next week!
+## Until next week!
+
+Wish I could take the [time masheen](https://www.youtube.com/watch?v=DueSvcjn810) and go back to week 1, and change my draft strategy.
+
+![screw Charlie Chaplin](static/un.png)

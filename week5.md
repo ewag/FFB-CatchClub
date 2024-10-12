@@ -2,7 +2,7 @@
 
 [Welcome to Catch Club. I love you](https://www.youtube.com/watch?v=ZIFCWpn4qQ4)
 
-Idiocracy week! Came out in 2006, and one of the best movies ever. [Best opening scene ever](https://www.youtube.com/watch?v=sP2tUW0HDHA).
+Idiocracy week! Came out in 2006, and one of the best movies ever. [Best opening scene](https://www.youtube.com/watch?v=sP2tUW0HDHA).
 
 ![i love you](static/idiocracy-cc.png)
 
@@ -70,7 +70,7 @@ Happy Endings chance to extend the defending champs losing streak to 2 weeks [en
 prompt:
 > create a promotional image for a show called "ow! my balls!" and the image includes a hockey player in pain getting hit in the groin by a hockey puck from slapshot from an Atlanta Falcons football player wide receiver who is wearing a # 1 jersey. 
 
-![he got hit in the balls](static/week5-game6.png)
+![Hormel Chavez can skate?](static/week5-game6.png)
 
 ---
 
@@ -81,7 +81,7 @@ There was no time for erotic coffee for men for Cooper Pooper Trooper as they to
 prompt:
 > Create an image of a red-light district Starbucks offering erotic coffee for men. CJ Stroud from the Houston Texans can be seen walking into the starbucks.
 
-![not time for a handjob Not Sure](static/week5-game5.png)
+![no time for a handjob Not Sure](static/week5-game5.png)
 
 ---
 
